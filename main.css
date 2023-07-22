@@ -1,0 +1,16 @@
+
+header{
+    background-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    li:first-child{border-radius: 4px;}
+    display: inline-block;
+    margin-right: 20px;
+}
+section{background-color: aqua;}
+footer{background-color: black; color: wheat;}
